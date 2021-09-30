@@ -6,3 +6,12 @@ body {
     text-align: center;
     background: white;
 }
+
+
+/*notes*/
+
+.title_not h3 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 25px;
+}
